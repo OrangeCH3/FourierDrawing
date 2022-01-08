@@ -1,4 +1,4 @@
-# FourierCircleDrawing-Demo
+# FourierCircleDrawing
 
 FourierCircleDrawing-Demo
 
